@@ -1,6 +1,3 @@
-To generate a README for GitHub, you want to provide a concise yet informative overview of your project, including its purpose, features, how to use it, and any relevant information for potential contributors or users. Below is a template for your README:
-
----
 
 # Accident Detection and Assistance System
 
